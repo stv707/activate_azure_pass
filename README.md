@@ -1,2 +1,3 @@
-# activate_azure_pass
-Steps to Activate Azure Pass
+# Microsoft Azure AzurePass Activation 
+
+## Steps to Activate Azure Pass
