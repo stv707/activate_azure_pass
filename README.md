@@ -35,7 +35,9 @@
  ![picture 6](images/2295c441f405ab11e34a8d11c2fce3c4858c6aafde1e69f1071b51a231faf2e8.png)  
 
  - Create a Password for your alias 
-   ![picture 7](images/fefd0a5a993d3d2ce762733894766f4f8d6790af5cbf5a4209113a40ce6f1920.png)  
+
+ - Create a Password for your Alias.   
+ ![picture 7](images/fefd0a5a993d3d2ce762733894766f4f8d6790af5cbf5a4209113a40ce6f1920.png)  
  
 
  - Once the hotmail/outlook account created, you will redirected to Azure Pass Site (pay attention to Microsoft Email and click confirm Microsoft Account)
