@@ -22,7 +22,10 @@
  - Once you click the start button on the site, you are required to login with a valid microsoft account
  - You need to create a new @outlook.com or @hotmail.com account 
  - DO NOT use any existing hotmail or outlook account that been associated with any Microsoft Azure/DevOps/MS365 service
+ - Activation code will only work Once, if you activate the code on a wrong account, you may need to use your credit card to create a new Trial Azure Subscription. 
  >>NOTE: **YOU BEEN WARNED** 
+
+ - The following steps assumes you going to create a new hotmail/outlook account 
 
  - Select **Use another account** 
  ![picture 2](images/5460608b485f3dd5350d1a18259e3f42eaa51a4b29e15b8038b112415c7157e2.png)  
