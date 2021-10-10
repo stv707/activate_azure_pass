@@ -8,8 +8,8 @@
  >>NOTE: **It is recommended you close all browsers and open a new In-Private Browser session.** 
 
  >>NOTE: **Other log-ins can persist and cause errors during the activation step.** 
- 
- >>NOTE: **Microsoft Azure Pass Subsscrption runs on isolated DNS, if you have any VPN, please disconnect before going thru this process, failing to do so, activation may cause error** 
+
+ >>NOTE: **Microsoft Azure Pass Subscription runs on isolated DNS, if you have any VPN, please disconnect before going thru this process, failing to do so, activation may cause error** 
 
  - Click the start button to get started.
  ![picture 1](images/b7d79bf0bcf6ac8c5020a7cfaf4b0c4f7774fc454a316b241a83b214de1cb76a.png)  
