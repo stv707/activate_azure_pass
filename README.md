@@ -18,7 +18,8 @@
  - You need to create a new @outlook.com or @hotmail.com account 
  - DO NOT use any existing hotmail or outlook account that been associated with any Microsoft Azure/DevOps/MS365 service
  >>NOTE **YOU BEEN WARNED** 
- 
+
+ - Select **Use another account** 
  ![picture 2](images/5460608b485f3dd5350d1a18259e3f42eaa51a4b29e15b8038b112415c7157e2.png)  
 
  - Create a new Account and follow the steps 
