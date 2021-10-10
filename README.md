@@ -34,7 +34,7 @@
  - Use outlook.com or hotmail.com with a new alias
  ![picture 6](images/2295c441f405ab11e34a8d11c2fce3c4858c6aafde1e69f1071b51a231faf2e8.png)  
  
- 
+
  - Create a Password for your Alias.   
  ![picture 7](images/fefd0a5a993d3d2ce762733894766f4f8d6790af5cbf5a4209113a40ce6f1920.png)  
  
@@ -42,7 +42,20 @@
  - Once the hotmail/outlook account created, you will redirected to Azure Pass Site (pay attention to Microsoft Email and click confirm Microsoft Account)
  ![picture 8](images/3eefd5a922b19fcf70deac177a98ef266e2c6bb4e35589ab023c7d74aba02ded.png)  
  
- - 
+ - Enter your promo code in the Promo code box and click “Claim Promo Code”.
+ ![picture 9](images/f2f75b5d32bbd2ea70fa2d558202ad741242bc8529b94593768725eb6271b7ca.png)  
+
+ - It may take up to 5 minutes to process the redemption.
+ ![picture 10](images/1575bea1f507c584f85fa8201e80c1c3216821df3ea68fa9647118c5e9d92c90.png)  
+
+ - When the redemption process is completed, it will redirect to the sign up page, enter your information and click next
+ ![picture 11](images/23c736909e2174e90178e5a59552220de936e9e71f4c7a03c2f0cc6eaddb0e6c.png)  
+
+ - Click the agreement check box and click the Sign up button. It may take a few minutes to process the request.
+ ![picture 12](images/f1212294e52e83683d000ec660c3de42673fa0179896096513e8b89ee5887c0a.png)  
+
+ - Once the sign up process Done, You will be redirected to Azure Portal, and Your Subscription is Ready
+ ![picture 13](images/36446e5c11c5dad91a0d8c7090e47d94bf9e3667258aad40a322872fa53b8ad4.png)  
 
 
 
