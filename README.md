@@ -26,4 +26,9 @@
  - Select **Create a new account** 
  ![picture 4](images/6668a26fd36b477032ac831c2fcda2ca2589312eba49288462c319f6ae511d3d.png)  
 
- - 
+ - Select **Get a new email address** 
+ ![picture 5](images/d704071a46e37fa512d99ff7b5c100740e6c3773401d9e32711aa54c20a8e711.png)  
+ 
+ - Use outlook.com or hotmail.com with a new alias
+ ![picture 6](images/2295c441f405ab11e34a8d11c2fce3c4858c6aafde1e69f1071b51a231faf2e8.png)  
+
